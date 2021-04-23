@@ -1,6 +1,6 @@
 ### Olá 👋 Seja bem vindo(a)!
-Eu sou criadora de conteúdo para o Instagram, amante da natureza e dos animais, fã de python e desenvolvimento web, estudante de programação em processo de descoberta!
-- 🤖 Gosto de aprender sobre inteligência artifical 
+Eu sou criadora de conteúdo, amante da natureza e dos animais, fã de python e desenvolvimento web e estudante de programação Front-End!
+- 🤖 Gosto de aprender sobre Aplicações Web 
 - 👩‍🎓 Estudande de programação Autodidata! 
 - 🤝 Estou buscando colaborar na criação e desenvolvimento de projetos para ampliar minhas habilidades e experiência! 
 
