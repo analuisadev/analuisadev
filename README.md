@@ -1,6 +1,7 @@
 ### Olá 👋 Seja bem vindo(a)!
-Eu sou criadora de conteúdo, amante da natureza e dos animais, fã de python e desenvolvimento web e estudante de programação Front-End!
-- 👩‍💻 Apaixonada por Front-end para Web
+Sou criadora de conteúdo e estudante de desenvolvimento Front-end
+
+- 👩‍💻 Apaixonada por Front-end e Ux Designer
 - 👩‍🎓 Estudande de programação Autodidata! 
 - 🤝 Estou buscando colaborar na criação e desenvolvimento de projetos para ampliar minhas habilidades e experiência! 
 
