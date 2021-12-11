@@ -1,8 +1,8 @@
 ### Hello 👋 I'm Ana Luisa!
 
-I'm student of Front-end development and content creator of instagram
+I'm student of Front-End Development and content creator of instagram
 
-- 👩‍💻 In love for front-End and Ux Designer
+- 👩‍💻 In love for Front-End and Ux Designer
 - 👩‍🎓 Self-taught programming student! 
 - 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience!
 - 🐭 In love for rats and Leopard gecko
