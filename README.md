@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Ana Luisa!
 
-I'm student of Front-End Development and content creator of instagram
+I'm student of Front-End Development and content creator of Instagram
 
 - 👩‍💻 In love for Front-End and Ux Designer
 - 👩‍🎓 Self-taught programming student! 
