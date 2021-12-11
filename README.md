@@ -1,14 +1,36 @@
-### Olá 👋 Seja bem vindo(a)!
-Sou criadora de conteúdo e estudante de desenvolvimento Front-end
+### Hello 👋 i'm Ana Luisa!
 
-- 👩‍💻 Apaixonada por Front-end e Ux Designer
-- 👩‍🎓 Estudande de programação Autodidata! 
-- 🤝 Estou buscando colaborar na criação e desenvolvimento de projetos para ampliar minhas habilidades e experiência! 
+I'm student of Front-end development and content creator of instagram
 
-### Aqui você poderá me conhecer melhor 👇 
+- 👩‍💻 In love for front-End and Ux Designer
+- 👩‍🎓 Self-taught programming student! 
+- 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience!
+- 🐭 In love for rats and Leopard gecko
+- 📖 Reader 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/analuisadev)](https://github.com/analuisadev)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu.anaofc/)](https://www.instagram.com/eu.anaofc/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff0000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eidev.oficial/)](https://www.instagram.com/eidev.oficial/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-luisa-346752190/)](https://www.linkedin.com/in/ana-luisa-346752190/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCP7FiSKfSvzXAEioSYKUs2Q)](https://www.youtube.com/channel/UCP7FiSKfSvzXAEioSYKUs2Q)
+<div align="center">
+  <a href="https://github.com/analuisadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuisadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisadev&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+</div>
+  
+##
+  
+  
+ <div>
+   <a href="https://www.youtube.com/channel/UCP7FiSKfSvzXAEioSYKUs2Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://t.me/+VNukFJbajaptFopD" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/analuisadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ana-luisa-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:analuisavidal89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>  
+  
+  
+   ![Snake animation](https://github.com/analuisadev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
