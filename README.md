@@ -1,4 +1,4 @@
-### Hello 👋 i'm Ana Luisa!
+### Hello 👋 I'm Ana Luisa!
 
 I'm student of Front-end development and content creator of instagram
 
@@ -18,7 +18,7 @@ I'm student of Front-end development and content creator of instagram
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://bmsastech.com/wp-content/uploads/2020/05/feont-end-developer-vector-art.png">
 </div>
   
 ##
