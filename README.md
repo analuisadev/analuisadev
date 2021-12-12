@@ -3,9 +3,9 @@
 I'm student of front-end development and content creator of Instagram
 
 - 👩‍💻 In love for Front-End and UX Designer
-- 👩‍🎓 Self-taught programming student! 
-- 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience!
-- 🐭 In love for rats and Leopard gecko
+- 👩‍🎓 Self-taught programming student 
+- 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience
+- 🐭 I love for rats and Leopard gecko
 - 📖 Reader 
 
 <div align="center">
