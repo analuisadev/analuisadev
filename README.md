@@ -2,7 +2,7 @@
 
 I'm Front-End Developer and content creator of Instagram.
 
-- 👩‍💻 In love for Front-End and UX Designer
+- 👩‍💻 In love for Front-End and UI/UX Designer
 - 👩‍🎓 Self-taught programming student 
 - 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience
 - 🐭 I love rats and Leopard gecko
