@@ -37,5 +37,3 @@
 </div>
 
 <hr>
-  
-   ![Snake animation](https://github.com/analuisadev/rafaballerini/blob/output/github-contribution-grid-snake.svg)
