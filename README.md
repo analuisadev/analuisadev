@@ -11,7 +11,8 @@
 ## 📝 Articles
 
 * [A importância do LinkedIn para Dev's e como usar](https://dev.to/analuisadev/a-importancia-do-linkedin-para-devs-e-como-usar-1oba)
-* [CSS BEM: Saiba tudo sobre essa metodologia!](https://dev.to/analuisadev/css-bem-saiba-tudo-sobre-essa-metodologia-21jk) 
+* [CSS BEM: Saiba tudo sobre essa metodologia!](https://dev.to/analuisadev/css-bem-saiba-tudo-sobre-essa-metodologia-21jk)
+* [A importância do HTML5 Semântico para a SEO de Websites](https://community.revelo.com.br/a-importancia-do-html5-semantico-para-a-seo-de-websites/)
  
 ## 🚀 Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScritp](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
